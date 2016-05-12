@@ -1,5 +1,9 @@
 {
     "columns": [{
+      "name": "DAPSTROM",
+      "titles": "DAPSTROM",
+      "datatype": "string"
+    }, {
       "name": "HAUL ID",
       "titles": "HAUL ID",
       "datatype": "string"
@@ -23,7 +27,7 @@
       "titles": "Ices division",
       "datatype": "string"
       }, {
-      "name": "targetTaxonId",
+      "name": "targetTaxonName",
       "titles": "Predator Latin name",
       "datatype": "string"
       }, {
