@@ -7,7 +7,6 @@
       "name": "Year",
       "titles": "Year",
       "datatype": "string"
-      }
     }, {
       "name": "http://rs.tdwg.org/dwc/terms/eventDate",
       "titles": "Date",
@@ -19,63 +18,51 @@
       "name": "Sea",
       "titles": "localityName",
       "datatype": "string"
-      }
-    }, {
+      }, {
       "name": "Ices division",
       "titles": "Ices division",
       "datatype": "string"
-      }
-    }, {
+      }, {
       "name": "targetTaxonId",
       "titles": "Predator Latin name",
       "datatype": "string"
-      }
-    }, {
+      }, {
       "name": "Predator common name",
       "titles": "Predator common name",
       "datatype": "string"
-      }
-    }, {
+      }, {
       "name": "Pooled",
       "titles": "Pooled",
       "datatype": "string"
-      }
-    }, {
+      }, {
       "name": "Mean length of predator",
       "titles": "Mean length of predator",
       "datatype": "string"
-      }
-    }, {
+      }, {
       "name": "targetTaxonId",
       "titles": "Prey Latin name",
       "datatype": "string"
-      }
-    }, {
+      }, {
       "name": "Prey common name",
       "titles": "Prey common name",
       "datatype": "string"
-      }
-    }, {
+      }, {
       "name": "Prey group",
       "titles": "Prey group",
       "datatype": "string"
-      }
-    }, {
+      }, {
       "name": "Predator ID",
       "titles": "Predator ID",
       "datatype": "string"
-      }
-    }, {
+      }, {
       "name": "Number of stomachs",
       "titles": "Number of stomachs",
       "datatype": "string"
-      }
-    }, {
+      }, {
       "name": "Prey Length",
       "titles": "Prey Length",
       "datatype": "string"
-      }
-    }, {
+      }, {
       "name": " Minimum number",
       "titles": "Minimum number",
       "datatype": "string"
