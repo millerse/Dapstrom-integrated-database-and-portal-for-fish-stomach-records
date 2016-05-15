@@ -13,6 +13,7 @@
     }, {
       "_comment" : "note that the format of the date column is not consistently applied by dapstrom",
       "name": "Date",
+      "titles": "Date",
       "datatype": "string"
     }, {
       "name": "Sea",
