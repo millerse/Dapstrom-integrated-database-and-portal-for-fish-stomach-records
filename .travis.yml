@@ -2,4 +2,4 @@ install:
   - wget "https://raw.githubusercontent.com/globalbioticinteractions/globinizer/master/check-dataset.sh" -O check-dataset.sh
   - chmod +x check-dataset.sh
 
-script: ./check-dataset.sh ${TRAVIS_REPO_SLUG}
+script: travis_wait 30 ./check-dataset.sh ${TRAVIS_REPO_SLUG}
