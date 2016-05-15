@@ -12,7 +12,7 @@
       "titles": "Date",
             "datatype": {
         "base": "date",
-        "format": "dd-MM-yyyy HH:mm:ss"
+        "format": "dd/MM/yyyy"
       }
     }, {
       "name": "Sea",
@@ -23,7 +23,7 @@
       "titles": "Ices division",
       "datatype": "string"
       }, {
-      "name": "targetTaxonName",
+      "name": "sourceTaxonName",
       "titles": "Predator Latin name",
       "datatype": "string"
       }, {
@@ -39,7 +39,7 @@
       "titles": "Mean length of predator",
       "datatype": "string"
       }, {
-      "name": "targetTaxonId",
+      "name": "targetTaxonName",
       "titles": "Prey Latin name",
       "datatype": "string"
       }, {
