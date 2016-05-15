@@ -8,7 +8,7 @@
       "titles": "Year",
       "datatype": {
         "base": "date",
-        "format": "dd/MM/yyyy"
+        "format": "yyyy"
       }
     }, {
       "_comment" : "note that the format of the date column is not consistently applied by dapstrom",
