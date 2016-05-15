@@ -4,16 +4,16 @@
       "titles": "HAUL ID",
       "datatype": "string"
     }, {
-      "name": "Year",
-      "titles": "Year",
-      "datatype": "string"
-    }, {
       "name": "http://rs.tdwg.org/dwc/terms/eventDate",
-      "titles": "Date",
-            "datatype": {
+      "titles": "Year",
+      "datatype": {
         "base": "date",
         "format": "dd/MM/yyyy"
       }
+    }, {
+      "_comment" : "note that the format of the date column is not consistently applied by dapstrom",
+      "name": "Date",
+      "datatype": "string"
     }, {
       "name": "Sea",
       "titles": "localityName",
