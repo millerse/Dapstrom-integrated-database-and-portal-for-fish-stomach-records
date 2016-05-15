@@ -1,9 +1,5 @@
 {
-    "columns": [{
-      "name": "DAPSTROM",
-      "titles": "DAPSTROM",
-      "datatype": "string"
-    }, {
+    "columns": [ {
       "name": "HAUL ID",
       "titles": "HAUL ID",
       "datatype": "string"
