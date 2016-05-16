@@ -1,23 +1,20 @@
 {
-    "columns": [{
-      "name": "DAPSTROM",
-      "titles": "DAPSTROM",
-      "datatype": "string"
-    }, {
+    "columns": [ {
       "name": "HAUL ID",
       "titles": "HAUL ID",
       "datatype": "string"
     }, {
-      "name": "Year",
-      "titles": "Year",
-      "datatype": "string"
-    }, {
       "name": "http://rs.tdwg.org/dwc/terms/eventDate",
-      "titles": "Date",
-            "datatype": {
+      "titles": "Year",
+      "datatype": {
         "base": "date",
-        "format": "dd-MM-yyyy HH:mm:ss"
+        "format": "yyyy"
       }
+    }, {
+      "_comment" : "note that the format of the date column is not consistently applied by dapstrom",
+      "name": "Date",
+      "titles": "Date",
+      "datatype": "string"
     }, {
       "name": "Sea",
       "titles": "localityName",
@@ -27,7 +24,7 @@
       "titles": "Ices division",
       "datatype": "string"
       }, {
-      "name": "targetTaxonName",
+      "name": "sourceTaxonName",
       "titles": "Predator Latin name",
       "datatype": "string"
       }, {
@@ -43,7 +40,7 @@
       "titles": "Mean length of predator",
       "datatype": "string"
       }, {
-      "name": "targetTaxonId",
+      "name": "targetTaxonName",
       "titles": "Prey Latin name",
       "datatype": "string"
       }, {
