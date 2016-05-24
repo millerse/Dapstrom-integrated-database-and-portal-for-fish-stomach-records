@@ -266,6 +266,22 @@
       "headerRowCount": 1,
       "null": ["9999999998.0"]
     },
+    { "url": "https://www.cefas.co.uk/umbraco/CefasPlugins/DapstomSurface/Download?searchType=predator&species=COD&years=2010&years=2007&years=2004&years=1994&years=1991&years=1987&years=1983&years=1980&years=1977&years=1973&years=1968&years=1963&years=1959&years=1956&years=1953&years=1950&years=1937&years=1923&years=1909&years=1906&years=1903&years=1899&years=1894&years=1890&years=1885&areas=VIa&areas=VIIj&areas=VIIa&areas=IIa&areas=Vb2&areas=VIIe&areas=VIIf&areas=IVb&areas=IVa&areas=I&areas=Ib&areas=IVc&areas=Va&areas=Vb1&areas=VIIg&areas=VIIh&areas=IIb&minlength=0&maxlength=1000&nullLengths=true",
+      "dcterms:bibliographicCitation": "Pinnegar, J.K. (2014). DAPSTOM - An Integrated Database & Portal for Fish Stomach Records. Version 4.7. Centre for Environment, Fisheries & Aquaculture Science, Lowestoft, UK. February 2014, 39pp.",
+      "tableSchema": "schema.json",
+      "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002470",
+      "interactionTypeName": "eats",
+      "headerRowCount": 1,
+      "null": ["9999999998.0"]
+    },
+    { "url": "https://www.cefas.co.uk/umbraco/CefasPlugins/DapstomSurface/Download?searchType=predator&species=COD&years=2009&years=2006&years=2002&years=1993&years=1990&years=1985&years=1982&years=1979&years=1976&years=1972&years=1965&years=1962&years=1958&years=1955&years=1952&years=1949&years=1936&years=1917&years=1908&years=1905&years=1902&years=1898&years=1893&years=1889&areas=Va&areas=VIIj&areas=IVa%20&areas=VIIg&areas=VIIh&areas=XIVb&areas=VIa&areas=IIa&areas=VIIa&areas=VIIe&areas=VIIf&areas=IVb&areas=IVa&areas=I&areas=IIb&areas=Ib&areas=VIId&areas=IVc&areas=IIb&minlength=0&maxlength=1000&nullLengths=true",
+      "dcterms:bibliographicCitation": "Pinnegar, J.K. (2014). DAPSTOM - An Integrated Database & Portal for Fish Stomach Records. Version 4.7. Centre for Environment, Fisheries & Aquaculture Science, Lowestoft, UK. February 2014, 39pp.",
+      "tableSchema": "schema.json",
+      "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002470",
+      "interactionTypeName": "eats",
+      "headerRowCount": 1,
+      "null": ["9999999998.0"]
+    },
     { "url": "https://www.cefas.co.uk/umbraco/CefasPlugins/DapstomSurface/Download?searchType=predator&species=GAD&years=1906&areas=VIIa&minlength=0&maxlength=1000&nullLengths=truehttps://www.cefas.co.uk/umbraco/CefasPlugins/DapstomSurface/Download?searchType=predator&species=CDT&years=2011&years=2006&years=2005&years=1991&years=1976&years=1965&years=1937&years=1936&years=1929&years=1928&years=1919&years=1918&years=1917&years=1914&years=1901&years=1889&areas=IVa&areas=IVb&areas=IVc&areas=VIa&areas=VIIa&areas=VIId&areas=VIIe&areas=VIIf&areas=VIIg&areas=VIIh&areas=VIIIa&areas=VIIj&minlength=0&maxlength=1000&nullLengths=true",
       "dcterms:bibliographicCitation": "Pinnegar, J.K. (2014). DAPSTOM - An Integrated Database & Portal for Fish Stomach Records. Version 4.7. Centre for Environment, Fisheries & Aquaculture Science, Lowestoft, UK. February 2014, 39pp.",
       "tableSchema": "schema.json",
